@@ -1,4 +1,4 @@
-#A simple sciprt to pull data from Elasticsearch and into Postgres. 
+#A simple script to pull data from Elasticsearch and into Postgres. 
 
 (Why? you might ask; becuase we're building a datawarehouse and Postgres is where that lives, therefore, we want data from all sources in the Postgres DBs)
 
